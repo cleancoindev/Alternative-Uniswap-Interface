@@ -1,7 +1,7 @@
 {
   "name": "react-uniswap",
   "version": "0.1.0",
-  "homepage": "https://cleancoindev.github.io/Alternative-Uniswap-Interface/build",
+  "homepage": "https://cleancoindev.github.io/Alternative-Uniswap-Interface/public",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.14.3",
