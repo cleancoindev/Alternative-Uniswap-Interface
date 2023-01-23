@@ -26,6 +26,7 @@
     "prop-types": "^15.7.2",
     "notistack": "^1.0.10"
   },
+  "homepage": "https://cleancoindev.github.io/Alternative-Uniswap-Interface/",
   "scripts": {
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
